@@ -22,4 +22,8 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
