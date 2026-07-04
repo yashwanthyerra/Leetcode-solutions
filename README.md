@@ -12,6 +12,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -39,12 +40,15 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
