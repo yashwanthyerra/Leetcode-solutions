@@ -29,7 +29,6 @@ class Solution:
 
                 if indegree[neibor]==0:
                     q.append(neibor)
-        if 0 not in topo:
-            topo.append(0)
+        
 
         return  len(topo)==numCourses
