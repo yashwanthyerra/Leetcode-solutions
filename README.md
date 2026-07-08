@@ -8,6 +8,7 @@ my Leetcode solutions in python
 | ------- |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1514-path-with-maximum-probability](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -62,6 +63,7 @@ my Leetcode solutions in python
 | [0207-course-schedule](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Topological Sort
 |  |
@@ -86,11 +88,13 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 ## Binary Search
 |  |
 | ------- |
