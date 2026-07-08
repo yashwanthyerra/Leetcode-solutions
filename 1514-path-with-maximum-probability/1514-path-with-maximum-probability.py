@@ -25,13 +25,12 @@ class Solution:
 
             for w,v in graph[node]:
                 prb = curr_prb*(w)
-
-                if abs(prb)>abs(best[v]):
+# just heap should append -ve values only so if and else are written
+                if abs(prb)>abs(best[v]):     
+                    best[v] = prb
                     if prb<0:
-                        best[v] = -(prb)
                         heapq.heappush(pq,(prb,v))
                     else:
-                        best[v] = (prb)
                         heapq.heappush(pq,(-prb,v))
         return 0
 
