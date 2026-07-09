@@ -6,6 +6,7 @@ my Leetcode solutions in python
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1514-path-with-maximum-probability](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
@@ -37,6 +38,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
