@@ -39,6 +39,7 @@ my Leetcode solutions in python
 | ------- |
 | [0009-palindrome-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +101,7 @@ my Leetcode solutions in python
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
