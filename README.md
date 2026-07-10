@@ -35,6 +35,7 @@ my Leetcode solutions in python
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
 ## Math
 |  |
@@ -45,6 +46,7 @@ my Leetcode solutions in python
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +58,7 @@ my Leetcode solutions in python
 | [0021-merge-two-sorted-lists](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -129,4 +132,8 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
