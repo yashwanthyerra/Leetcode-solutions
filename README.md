@@ -140,4 +140,9 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
