@@ -46,6 +46,7 @@ my Leetcode solutions in python
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Linked List
@@ -130,6 +131,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,4 +164,8 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
