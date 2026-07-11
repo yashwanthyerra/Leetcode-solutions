@@ -136,4 +136,8 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
