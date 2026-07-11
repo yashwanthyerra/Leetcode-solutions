@@ -9,6 +9,7 @@ my Leetcode solutions in python
 | [0066-plus-one](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1514-path-with-maximum-probability](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
@@ -47,6 +48,7 @@ my Leetcode solutions in python
 | [0204-count-primes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Linked List
@@ -113,6 +115,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -122,6 +125,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Enumeration
 |  |
@@ -155,6 +159,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
@@ -163,6 +168,7 @@ my Leetcode solutions in python
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
