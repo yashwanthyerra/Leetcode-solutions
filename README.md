@@ -6,6 +6,7 @@ my Leetcode solutions in python
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0204-count-primes) |
@@ -37,6 +38,7 @@ my Leetcode solutions in python
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
 ## Math
@@ -183,4 +185,8 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
