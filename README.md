@@ -10,6 +10,7 @@ my Leetcode solutions in python
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1514-path-with-maximum-probability](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
@@ -174,4 +175,12 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
