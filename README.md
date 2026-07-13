@@ -60,6 +60,7 @@ my Leetcode solutions in python
 | [0021-merge-two-sorted-lists](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +148,7 @@ my Leetcode solutions in python
 | [0141-linked-list-cycle](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Memoization
 |  |
 | ------- |
