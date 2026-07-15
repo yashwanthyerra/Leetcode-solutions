@@ -14,9 +14,8 @@ class Solution:
         if head is None :
             return head
 
-        curr = head
-        prev = curr
-        curr = curr.next
+        prev = head
+        curr = head.next
 
         while curr :   
             if curr.val == val:
@@ -26,7 +25,6 @@ class Solution:
 
             prev = curr
             curr = curr.next
-
 
         return head
 
