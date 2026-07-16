@@ -57,6 +57,7 @@ my Leetcode solutions in python
 | [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -149,6 +150,7 @@ my Leetcode solutions in python
 | ------- |
 | [0204-count-primes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
