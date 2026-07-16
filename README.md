@@ -61,6 +61,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
@@ -152,6 +153,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0344-reverse-string) |
