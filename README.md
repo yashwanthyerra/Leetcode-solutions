@@ -69,6 +69,7 @@ my Leetcode solutions in python
 | [0061-rotate-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0622-design-circular-queue) |
@@ -163,6 +164,7 @@ my Leetcode solutions in python
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -195,6 +197,7 @@ my Leetcode solutions in python
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -216,8 +219,13 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
