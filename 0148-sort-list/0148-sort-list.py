@@ -3,41 +3,57 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-def quick_sort(arr):
-
-    if len(arr)<=1:
-        return arr
-
-    mid = len(arr)//2
-    pivot = arr[mid]
-
-    left = [x for x in arr if x<pivot]
-    mid = [x for x in arr if x==pivot]
-    right = [x for x in arr if x>pivot]
-
-    return quick_sort(left) + mid + quick_sort(right)
-
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if head is None:
-            return head
-        nums =[]
-        curr = head
-        while curr:
-            nums.append(curr.val)
-            curr = curr.next
 
-        new = quick_sort(nums)
+        def merge_sort(head):
+            if head is None or head.next is None:
+                return head
+            slow =head
+            fast = head
+            prev = None
+            while fast and fast.next:
+                prev = slow
+                slow = slow.next
+                fast = fast.next.next
 
-        nodes = [ListNode(x) for x in new]
+            prev.next = None # spliting 
 
-        for i in range(len(new)-1):
-            nodes[i].next = nodes[i+1]
+            left = merge_sort(head)
+            right = merge_sort(slow)
 
-        if not nodes:
-            return None
-        head = nodes[0]
-        return head
-            
+            return merge(left,right)
+
+        def merge(left,right):
+
+            dummy = ListNode(0)
+
+            curr = dummy
+
+            while left and right:
+                if left.val<right.val:
+                    curr.next = left
+                    left = left.next
+                    curr = curr.next
+                else:
+                    curr.next = right
+                    right = right.next
+                    curr = curr.next
+
+                
+            if left:
+                curr.next = left
+
+            else:
+                curr.next= right
+
+            return dummy.next
+
+        return merge_sort(head)
+
+
+
+
+
 
         
