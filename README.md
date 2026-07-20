@@ -179,6 +179,7 @@ my Leetcode solutions in python
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -236,4 +237,8 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
