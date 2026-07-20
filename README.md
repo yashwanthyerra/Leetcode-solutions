@@ -91,6 +91,7 @@ my Leetcode solutions in python
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0743-network-delay-time](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -181,6 +182,7 @@ my Leetcode solutions in python
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -210,6 +212,7 @@ my Leetcode solutions in python
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Prefix Sum
@@ -229,4 +232,8 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
