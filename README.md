@@ -41,6 +41,7 @@ my Leetcode solutions in python
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -181,6 +182,7 @@ my Leetcode solutions in python
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -241,4 +243,5 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
