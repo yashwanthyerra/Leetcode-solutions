@@ -63,6 +63,7 @@ my Leetcode solutions in python
 | [0507-perfect-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -210,6 +211,7 @@ my Leetcode solutions in python
 | [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
