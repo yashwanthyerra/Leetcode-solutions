@@ -56,6 +56,7 @@ my Leetcode solutions in python
 | [0066-plus-one](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0231-power-of-two) |
