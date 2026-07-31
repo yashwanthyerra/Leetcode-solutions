@@ -50,6 +50,7 @@ my Leetcode solutions in python
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0968-binary-tree-cameras](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +105,7 @@ my Leetcode solutions in python
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0968-binary-tree-cameras](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -127,6 +129,7 @@ my Leetcode solutions in python
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,6 +139,7 @@ my Leetcode solutions in python
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
