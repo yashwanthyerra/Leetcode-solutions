@@ -6,14 +6,13 @@
 #         self.right = right
 class Solution:
     def minCameraCover(self, root: Optional[TreeNode]) -> int:
-        needs_cameras =0
-        has_cameras =1
-        covered = 2
+        needs_cameras =1
+        has_cameras =2
+        covered = 3
         placed_cameras = 0
-        
+                
         def dfs(root):
            
-
             nonlocal placed_cameras
 
             if not root :
@@ -21,8 +20,6 @@ class Solution:
 
             left = dfs(root.left)
             right = dfs(root.right)
-
-
 
             if left ==needs_cameras or right ==needs_cameras:
                 placed_cameras+=1
@@ -32,7 +29,6 @@ class Solution:
                 return covered
             
             return needs_cameras
-
 
         if dfs(root)==needs_cameras:
             placed_cameras+=1
