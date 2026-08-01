@@ -6,9 +6,9 @@
 #         self.right = right
 class Solution:
     def minCameraCover(self, root: Optional[TreeNode]) -> int:
-        needs_cameras =1
-        has_cameras =2
-        covered = 3
+        needs_cameras =100
+        has_cameras =101
+        covered = 102              # TAKE ANY NUMBERS BUT DIFFERENT 
         placed_cameras = 0
                 
         def dfs(root):
