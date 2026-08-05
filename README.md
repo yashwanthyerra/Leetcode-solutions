@@ -9,6 +9,7 @@ my Leetcode solutions in python
 | [0004-median-of-two-sorted-arrays](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0204-count-primes) |
@@ -136,6 +137,7 @@ my Leetcode solutions in python
 | [0101-symmetric-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
@@ -147,6 +149,7 @@ my Leetcode solutions in python
 | [0101-symmetric-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
@@ -263,6 +266,7 @@ my Leetcode solutions in python
 | [0004-median-of-two-sorted-arrays](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
 ## Queue
 |  |
@@ -302,4 +306,5 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
