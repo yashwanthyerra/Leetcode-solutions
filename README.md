@@ -10,6 +10,7 @@ my Leetcode solutions in python
 | [0014-longest-common-prefix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0136-single-number) |
@@ -52,6 +53,7 @@ my Leetcode solutions in python
 | [0032-longest-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -329,4 +331,5 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
