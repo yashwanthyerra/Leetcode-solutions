@@ -80,6 +80,7 @@ my Leetcode solutions in python
 | [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -100,6 +101,7 @@ my Leetcode solutions in python
 | [0206-reverse-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
