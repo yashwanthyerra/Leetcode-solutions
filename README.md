@@ -103,6 +103,7 @@ my Leetcode solutions in python
 | [0622-design-circular-queue](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -218,6 +219,7 @@ my Leetcode solutions in python
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
