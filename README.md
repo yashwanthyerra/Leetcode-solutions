@@ -27,6 +27,7 @@ my Leetcode solutions in python
 | [1514-path-with-maximum-probability](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3731-find-missing-elements](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
@@ -188,6 +189,7 @@ my Leetcode solutions in python
 | [0743-network-delay-time](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Shortest Path
 |  |
 | ------- |
@@ -257,6 +259,7 @@ my Leetcode solutions in python
 | [0344-reverse-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,6 +282,7 @@ my Leetcode solutions in python
 | [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -308,6 +312,7 @@ my Leetcode solutions in python
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Queue
 |  |
 | ------- |
@@ -365,6 +370,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Lifting
 |  |
 | ------- |
