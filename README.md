@@ -126,6 +126,7 @@ my Leetcode solutions in python
 | [0207-course-schedule](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -158,6 +159,7 @@ my Leetcode solutions in python
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -173,6 +175,7 @@ my Leetcode solutions in python
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -362,4 +365,12 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
