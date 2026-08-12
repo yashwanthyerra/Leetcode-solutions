@@ -120,6 +120,7 @@ my Leetcode solutions in python
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -153,6 +154,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -169,6 +171,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -355,6 +358,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
