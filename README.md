@@ -105,6 +105,7 @@ my Leetcode solutions in python
 | [0203-remove-linked-list-elements](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -306,6 +307,7 @@ my Leetcode solutions in python
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
