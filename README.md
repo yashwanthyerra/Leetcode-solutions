@@ -22,6 +22,7 @@ my Leetcode solutions in python
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1514-path-with-maximum-probability](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
@@ -300,6 +301,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -345,6 +347,7 @@ my Leetcode solutions in python
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Game Theory
 |  |
