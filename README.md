@@ -78,6 +78,7 @@ my Leetcode solutions in python
 | [0172-factorial-trailing-zeroes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0263-ugly-number) |
@@ -266,6 +267,7 @@ my Leetcode solutions in python
 | [0205-isomorphic-strings](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0227-basic-calculator-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -347,6 +349,7 @@ my Leetcode solutions in python
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0735-asteroid-collision](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Game Theory
