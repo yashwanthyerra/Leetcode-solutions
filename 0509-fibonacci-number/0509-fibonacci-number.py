@@ -1,25 +1,15 @@
 class Solution:
     def fib(self, n: int) -> int:
-        a = 0
-        b = 1
-        if n==0:
-            return 0
 
-        if n==1:
-            return 1
-        else:
+        memo = {0:0,1:1}
 
-            result = 0
-            for i in range(2,n+1):
-                c = a+b
-                a = b
-                b = c
+        def fibb(x):
+            if x in memo:
+                return memo[x]
+            else:
+                memo[x] = fibb(x-1) + fibb(x-2)
 
-                result = c
+                return memo[x]
+        return fibb(n)
 
-
-
-            return result
-
-
-    
+        
