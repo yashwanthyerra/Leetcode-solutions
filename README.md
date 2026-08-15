@@ -119,6 +119,7 @@ my Leetcode solutions in python
 | [0203-remove-linked-list-elements](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
@@ -270,6 +271,7 @@ my Leetcode solutions in python
 | [0227-basic-calculator-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -350,6 +352,7 @@ my Leetcode solutions in python
 | [0020-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Game Theory
