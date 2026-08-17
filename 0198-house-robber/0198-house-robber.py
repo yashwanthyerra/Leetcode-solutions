@@ -1,10 +1,9 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        cost = nums
-        n = len(cost)
+        n = len(nums)
     
-        cost.append(0)
+        nums.append(0)
         for i in range(n-3,-1,-1):
-            cost[i] = cost[i]+max(cost[i+2],cost[i+3])
+            nums[i] = nums[i]+max(nums[i+2],nums[i+3])
 
-        return max(cost[0],cost[1])
+        return max(nums[0],nums[1])
