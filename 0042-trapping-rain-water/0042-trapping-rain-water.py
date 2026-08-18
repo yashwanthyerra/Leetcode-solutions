@@ -1,9 +1,7 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
         l_wall = r_wall = 0
-
         n = len(height)
-
         max_left = [0]*n        
         max_right = [0]*n
 
@@ -17,11 +15,10 @@ class Solution:
             r_wall = max(r_wall,height[j]) 
 
         rain_trapped = 0
-
+        
         for i in range(n):
             potential= min(max_left[i],max_right[i])
             rain_trapped += max(0,potential-height[i])    
-
         return rain_trapped
 
 
