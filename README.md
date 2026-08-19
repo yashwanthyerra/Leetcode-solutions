@@ -33,6 +33,7 @@ my Leetcode solutions in python
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2498-frog-jump-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/2498-frog-jump-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
@@ -223,6 +224,7 @@ my Leetcode solutions in python
 | [0069-sqrtx](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2498-frog-jump-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/2498-frog-jump-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +406,7 @@ my Leetcode solutions in python
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0055-jump-game) |
+| [2498-frog-jump-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/2498-frog-jump-ii/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
