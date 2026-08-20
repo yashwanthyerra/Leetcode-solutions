@@ -28,6 +28,7 @@ my Leetcode solutions in python
 | [0622-design-circular-queue](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0877-stone-game) |
@@ -342,6 +343,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
