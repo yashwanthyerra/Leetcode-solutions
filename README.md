@@ -108,6 +108,7 @@ my Leetcode solutions in python
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1927-sum-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -301,6 +302,7 @@ my Leetcode solutions in python
 | [0389-find-the-difference](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [1927-sum-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
@@ -392,6 +394,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
@@ -424,6 +427,7 @@ my Leetcode solutions in python
 | ------- |
 | [0045-jump-game-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0055-jump-game) |
+| [1927-sum-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2498-frog-jump-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/2498-frog-jump-ii/) | Medium |
 ## Quickselect
 |  |
