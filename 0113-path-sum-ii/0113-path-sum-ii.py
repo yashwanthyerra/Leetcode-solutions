@@ -17,7 +17,7 @@ class Solution:
             r.append(root.val)
 
             if not root.left and not root.right:
-                l.append(r.copy())
+                l.append(r[:])
 
             dfs(root.left,r)
             dfs(root.right,r)
