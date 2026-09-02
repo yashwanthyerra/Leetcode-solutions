@@ -169,6 +169,7 @@ my Leetcode solutions in python
 | [0743-network-delay-time](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0968-binary-tree-cameras](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -207,6 +208,7 @@ my Leetcode solutions in python
 | [0606-construct-string-from-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@ my Leetcode solutions in python
 | [0606-construct-string-from-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -320,6 +323,7 @@ my Leetcode solutions in python
 | [0394-decode-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1927-sum-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
