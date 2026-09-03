@@ -10,6 +10,7 @@ my Leetcode solutions in python
 | [0004-median-of-two-sorted-arrays](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -339,6 +340,7 @@ my Leetcode solutions in python
 | ------- |
 | [0001-two-sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
