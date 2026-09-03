@@ -20,8 +20,8 @@ class Solution:
         inorder_traversal(root)
         values = sorted(node.val for node in nodes)
 
-        for node,value in zip(nodes,values):
-            node.val = value
+        for i in range(len(nodes)):
+            nodes[i].val = values[i]
 
 
 
