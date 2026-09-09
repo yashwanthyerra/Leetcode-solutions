@@ -120,6 +120,7 @@ my Leetcode solutions in python
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3871-count-commas-in-range-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
