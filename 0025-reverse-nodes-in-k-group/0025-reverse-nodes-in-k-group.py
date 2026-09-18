@@ -28,8 +28,7 @@ class Solution:
         if length < k:
             return head
 
-        if length == k:
-            return reverse(head)
+
         dummy  = ListNode(0)
         curr = dummy
 
