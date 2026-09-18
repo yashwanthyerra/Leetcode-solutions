@@ -15,6 +15,8 @@ def reverse(head):
         curr = next_node
     return prev
 
+
+
 class Solution:
     def reverseKGroup(self, head: ListNode | None, k: int) -> ListNode | None:
         if not head :
@@ -27,7 +29,6 @@ class Solution:
 
         if length < k:
             return head
-
 
         dummy  = ListNode(0)
         curr = dummy
