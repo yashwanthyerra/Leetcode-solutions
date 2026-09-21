@@ -38,8 +38,8 @@ class Solution:
         if num:
             l.append(num)
 
-        if len(l) == 1 and l[0].isdigit():
-            return int(l[0])
+        # if len(l) == 1 and l[0].isdigit():
+        #     return int(l[0])
 
             
         def infix_to_post(l):
