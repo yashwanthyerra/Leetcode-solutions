@@ -8,6 +8,7 @@ my Leetcode solutions in python
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0041-first-missing-positive) |
@@ -317,6 +318,7 @@ my Leetcode solutions in python
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -493,6 +495,7 @@ my Leetcode solutions in python
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
