@@ -153,6 +153,7 @@ my Leetcode solutions in python
 | [0876-middle-of-the-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2296-design-a-text-editor](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2296-design-a-text-editor) |
 ## Recursion
 |  |
 | ------- |
@@ -370,6 +371,7 @@ my Leetcode solutions in python
 | [1106-parsing-a-boolean-expression](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1927-sum-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2296-design-a-text-editor](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -408,6 +410,7 @@ my Leetcode solutions in python
 | ------- |
 | [0258-add-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [2296-design-a-text-editor](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -419,6 +422,7 @@ my Leetcode solutions in python
 | [0303-range-sum-query-immutable](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0707-design-linked-list) |
+| [2296-design-a-text-editor](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2296-design-a-text-editor) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -465,6 +469,7 @@ my Leetcode solutions in python
 | [0394-decode-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1106-parsing-a-boolean-expression](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1106-parsing-a-boolean-expression/) | Hard |
+| [2296-design-a-text-editor](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Game Theory
 |  |
@@ -558,4 +563,8 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [2296-design-a-text-editor](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2296-design-a-text-editor) |
 <!---LeetCode Topics End-->
