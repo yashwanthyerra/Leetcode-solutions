@@ -32,6 +32,7 @@ my Leetcode solutions in python
 | [0260-single-number-iii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0403-frog-jump](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0403-frog-jump/) | Hard |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0622-design-circular-queue) |
@@ -294,6 +295,7 @@ my Leetcode solutions in python
 | [0069-sqrtx](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2498-frog-jump-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/2498-frog-jump-ii/) | Medium |
 ## Union-Find
@@ -443,6 +445,7 @@ my Leetcode solutions in python
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Queue
 |  |
@@ -454,6 +457,7 @@ my Leetcode solutions in python
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Trie
 |  |
 | ------- |
@@ -573,4 +577,20 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [2296-design-a-text-editor](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2296-design-a-text-editor) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
