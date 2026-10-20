@@ -37,6 +37,7 @@ my Leetcode solutions in python
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0403-frog-jump](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0403-frog-jump/) | Hard |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -79,6 +80,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0994-rotting-oranges](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -429,6 +431,7 @@ my Leetcode solutions in python
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2296-design-a-text-editor](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
