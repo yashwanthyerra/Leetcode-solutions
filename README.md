@@ -16,6 +16,7 @@ my Leetcode solutions in python
 | [0045-jump-game-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -79,6 +80,7 @@ my Leetcode solutions in python
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0994-rotting-oranges](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -92,6 +94,7 @@ my Leetcode solutions in python
 | [0053-maximum-subarray](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
