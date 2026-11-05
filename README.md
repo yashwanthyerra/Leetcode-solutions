@@ -210,6 +210,7 @@ my Leetcode solutions in python
 | [0968-binary-tree-cameras](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -255,6 +256,7 @@ my Leetcode solutions in python
 | [0968-binary-tree-cameras](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -284,6 +286,7 @@ my Leetcode solutions in python
 | [0968-binary-tree-cameras](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -470,6 +473,7 @@ my Leetcode solutions in python
 | [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Queue
 |  |
@@ -534,6 +538,7 @@ my Leetcode solutions in python
 | [0450-delete-node-in-a-bst](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -547,6 +552,7 @@ my Leetcode solutions in python
 | [0011-container-with-most-water](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0055-jump-game) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1927-sum-game](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2498-frog-jump-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/2498-frog-jump-ii/) | Medium |
 ## Quickselect
