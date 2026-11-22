@@ -19,12 +19,9 @@ class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         trie = Trie()
         s = ""
-        
         for i in strs:
             trie.insert(i)
-
         node = trie.root
-
         while len(node.children) == 1 and  not node.is_end:
             ch = list(node.children.keys())[0]
             s+=ch
