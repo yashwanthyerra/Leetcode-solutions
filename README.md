@@ -21,6 +21,7 @@ my Leetcode solutions in python
 | [0066-plus-one](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -356,6 +357,7 @@ my Leetcode solutions in python
 | [0061-rotate-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
@@ -428,6 +430,7 @@ my Leetcode solutions in python
 | ------- |
 | [0015-3sum](https://github.com/yashwanthyerra/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashwanthyerra/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
